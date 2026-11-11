@@ -6,7 +6,7 @@
 
 FUNGO is a community meme-token project intended for the Solana ecosystem and Pump.fun. This repository is the project documentation home.
 
-![Status](https://img.shields.io/badge/status-address%20provided%20%7C%20verification%20pending-orange) ![Chain](https://img.shields.io/badge/chain-Solana-9945FF) ![Launchpad](https://img.shields.io/badge/launch-Pump.fun-111111)
+[![Repository](https://img.shields.io/badge/GitHub-FUNGO-181717?logo=github)](https://github.com/Jaffyjee/fungo) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![Chain](https://img.shields.io/badge/Chain-Solana-9945FF)](https://solana.com/) [![Launch platform](https://img.shields.io/badge/Launch-Pump.fun-111111)](https://pump.fun/) [![Verification](https://img.shields.io/badge/On--chain%20verification-Pending-orange)](TECHNICAL_OVERVIEW.md)
 
 ## Project configuration
 
@@ -46,7 +46,25 @@ FUNGO is a meme/community project. Its identity is built around playful crypto c
 
 ## Brand
 
-The repository's existing SVG artwork is a starting point. The project name and all logo text should be updated to FUNGO before public promotion. Do not use third-party logos or imply endorsement by Pump.fun or Solana.
+The official project artwork is maintained in the assets/ directory:
+
+- [Primary coin logo (JPG)](assets/fungo-logo.jpg)
+- [FUNGO logo (SVG)](assets/fungo-logo.svg)
+- [FUNGO avatar (SVG)](assets/fungo-avatar.svg)
+- [FUNGO banner (SVG)](assets/fungo-banner.svg)
+
+Use these assets consistently. Do not use third-party logos or imply endorsement by Pump.fun or Solana.
+
+## Repository standards
+
+- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Contributing guide](CONTRIBUTING.md)
+- [Support guide](SUPPORT.md)
+- [Security policy](SECURITY.md)
+- [Citation metadata](CITATION.cff)
+- [License](LICENSE)
+
+This repository is the canonical documentation location for FUNGO. Changes to token facts, wallet disclosures, launch status, fees, and security claims should be supported by dated evidence or clearly labelled as maintainer-reported and pending independent verification.
 
 ## Risk notice
 
