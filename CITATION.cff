@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use or reference the FUNGO project documentation, please cite it as follows."
+title: "FUNGO Project Documentation"
+type: other
+authors:
+  - name: "Jaffy Jee"
+    affiliation: "FUNGO project maintainer"
+version: "1.0.0"
+date-released: "2026-11-11"
+url: "https://github.com/Jaffyjee/fungo"
+license: MIT
+abstract: >-
+  Official project documentation for FUNGO ($FUNGO), a community meme-token
+  project intended for the Solana ecosystem. The repository records project
+  disclosures, token information, technical verification status, risk
+  disclosures, launch information, and community guidance. On-chain claims
+  are identified as pending where they have not been independently verified.
+keywords:
+  - FUNGO
+  - Solana
+  - meme token
+  - project documentation
+  - transparency
